@@ -1,0 +1,47 @@
+html,body{
+    height: 100%;
+    width: 100%;
+  }
+#logo{
+    padding-left: 0%;
+}
+#space{
+    padding-bottom: 5%;
+}
+#des, #des1{
+    padding-left:10%;
+    padding-right:10%;
+}
+#des{
+    color: grey;
+}
+h1,h2{
+    font-family: 'Epilogue',sans-serif;
+}
+p1{
+    font-family: 'Inter', sans-serif;
+}
+h2{
+    font-weight: bold;
+    padding-left:10%;
+}
+#btnpad{
+    padding-left: 3%;
+    padding-right:3%;
+}
+#f1{
+    padding-left: 10%;
+    padding-right: 50%;
+}
+#f1t{
+    font-size:large;
+    color: grey;
+}
+#caratext{
+    opacity: 1;
+}
+#colorbox
+{
+    background-color:rgb(15,145,244,0.5);
+    height: 30%;
+}
